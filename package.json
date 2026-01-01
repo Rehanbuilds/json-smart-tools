@@ -1,0 +1,26 @@
+{
+  "name": "json-smart-tools",
+  "version": "0.1.0",
+  "description": "Lightweight TypeScript utilities for JSON formatting, validation, and error explanation",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "json",
+    "typescript",
+    "formatter",
+    "validator",
+    "developer-tools"
+  ],
+  "author": "Rehan",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vitest": "^1.2.0"
+  }
+}
+
