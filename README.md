@@ -1,5 +1,5 @@
 # json-smart-tools
-Lightweight TypeScript toolkit for JSON formatting, validation, and human-friendly error explanations. Zero dependencies.
+Lightweight TypeScript toolkit for JSON formatting, validation, and human-friendly error explanations. Zero dependencies. easiest and best 
 # JSON Smart Tools
 
 Lightweight TypeScript utilities for JSON formatting, validation, and error explanation.
